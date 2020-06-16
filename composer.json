@@ -1,0 +1,12 @@
+{
+    "name": "willy/cd2tech-test",
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "Willy Stadnick",
+            "email": "willy.stadnick@gmail.com"
+        }
+    ]
+}
