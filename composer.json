@@ -1,5 +1,5 @@
 {
-    "name": "willy/cd2tech-test",
+    "name": "willy/viacep-search",
     "require": {
         "guzzlehttp/guzzle": "^6.5"
     },

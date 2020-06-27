@@ -1,6 +1,6 @@
 # PHPtest
 
-Teste de seleção para vaga PHP (cd2.com.br)
+Teste de seleção para vaga PHP.
 
 ## Objetivo
 
